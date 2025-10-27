@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gymfitness-hocmon.vercel.app/api/sitemap.xml

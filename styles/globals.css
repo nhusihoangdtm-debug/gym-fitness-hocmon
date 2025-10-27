@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Dark, modern black & white theme */
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: 'Inter', sans-serif;
+}
+
+a { transition: 0.2s; }
+a:hover { opacity: 0.85; }
+
+/* blog markdown */
+.prose { color: #ddd; }
+.prose h1, .prose h2, .prose h3 { color: #fff; }
+.prose p { color: #ccc; }

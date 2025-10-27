@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="64" viewBox="0 0 480 128">
+  <rect width="480" height="128" fill="black"/>
+  <!-- dumbbell icon left -->
+  <g transform="translate(20,28)">
+    <rect x="0" y="28" width="24" height="16" rx="2" fill="white"/>
+    <circle cx="40" cy="36" r="18" fill="white"/>
+    <rect x="58" y="28" width="24" height="16" rx="2" fill="white"/>
+  </g>
+  <!-- text -->
+  <text x="110" y="62" font-size="32" fill="white" font-family="Arial, Helvetica, sans-serif" font-weight="700">GYM FITNESS</text>
+  <text x="370" y="62" font-size="18" fill="#bdbdbd" font-family="Arial, Helvetica, sans-serif">HÓC MÔN</text>
+</svg>
